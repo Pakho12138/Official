@@ -9,7 +9,7 @@ import { ElementPlusResolver } from "unplugin-vue-components/resolvers";
 
 // https://vite.dev/config/
 export default defineConfig({
-  // base: '/company/',
+  base: '/',
   plugins: [
     vue(),
     vueJsx(),
