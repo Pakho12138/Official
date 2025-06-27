@@ -1,0 +1,9 @@
+.el-header {
+    border-bottom: 1px solid #e6e6e6;
+}
+.el-container.is-vertical {
+   height: 100%; 
+}
+.el-main {
+  background: #f3f4f6; 
+}
